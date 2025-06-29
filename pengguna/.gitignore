@@ -1,0 +1,23 @@
+# CodeIgniter directories
+application/cache/*
+application/logs/*
+application/config/database.php
+
+# User uploads
+uploads/*
+
+# Composer dependencies
+vendor/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Temp and backup files
+*.bak
+*.swp
+*.tmp
