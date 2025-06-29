@@ -6,9 +6,9 @@ teknologi yang di gunakan:
 
 pengguna login :
 Bisa melakukan register terlebih dahulu sebelum login atau bisa langsung login menggunakan username dan password di bawah ini
-username : dzaky 
-password : dzaky
+- username : dzaky 
+- password : dzaky
 
 admin login :
-username : admin
-password : admin
+- username : admin
+- password : admin
